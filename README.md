@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ## Usage
 Run the main analysis script:
 ```bash
-python main_analysis.py
+Iris Flowers classification ML pro.ipynb
 ```
 This script will load the Iris dataset, perform data exploration, visualize the data using pair plots, correlation heatmaps, box plots, and count plots. It will also implement logistic regression for classification, predict class labels, and display the decision boundary visualization.
 
